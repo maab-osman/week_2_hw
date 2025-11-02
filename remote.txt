@@ -1,0 +1,15 @@
+$ git remote -v
+origin	https://github.com/maab-osman/week_2_hw.git (fetch)
+origin	https://github.com/maab-osman/week_2_hw.git (push)
+
+$ git remote show origin
+* remote origin
+  Fetch URL: https://github.com/maab-osman/week_2_hw.git
+  Push  URL: https://github.com/maab-osman/week_2_hw.git
+  HEAD branch: main
+  Remote branch:
+    main tracked
+  Local branch configured for 'git pull':
+    main merges with remote main
+  Local ref configured for 'git push':
+    main pushes to main (up to date)
