@@ -1,6 +1,5 @@
 Edited here for excercise 10
-Lorem ipsum dolor sit amet,
-consectetur adipiscing elit.
+excercise 12 edit
 Morbi tristique venenatis posuere.
 Fusce condimentum magna ut magna aliquam tincidunt. 
 Proin lobortis cursus urna quis sollicitudin.
